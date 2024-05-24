@@ -24,7 +24,7 @@ class Bank:
             "user1": User("user1", "1234"),
             "user2": User("user2", "5678")
             # Add more users as needed
-        }
+        } 
 
     def select_user(self):
         username = input("Enter your username: ")
