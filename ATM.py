@@ -1,7 +1,4 @@
 from datetime import datetime
-from flask import Flask, render_template, request, redirect
-import sqlite3
-atm
 
 class User:
     def __init__(self, username, pin):
