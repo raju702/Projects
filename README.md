@@ -7,7 +7,7 @@ A Python-based mini banking system that offers secure authentication, balance in
 🔒 Secure User Authentication
 Each user has a unique PIN to access their account securely.
 
-**💰 Balance Inquiry**
+**💰 Balance Inquiry** 
 Quickly check your current account balance.
 
 **⬆️ Deposit & ⬇️ Withdrawal**
