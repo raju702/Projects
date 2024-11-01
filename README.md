@@ -72,7 +72,8 @@ Enhanced Security: Add features like multi-factor authentication.
 
 This project is open-source and available under the MIT License.
 
-🤝 Contributions & Feedback
+**🤝 Contributions & Feedback**
+
 Feel free to open issues, fork, or submit pull requests. Let’s make this system even better together!
 Transaction History: Record all transactions for better tracking.
 Enhanced Security: Add features like multi-factor authentication.
